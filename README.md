@@ -3,7 +3,7 @@
 
 ## New studies of hearing loss are summarized in: 
 
-[Literature](./literature.org)
+[Literature](./literature.md)
 
 ## Latest news
 
